@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/lemon07r/EVA01-Red-Discord-Theme/main/evared.t
 
 ## Screenshot
 <img width="939" alt="image" src="https://user-images.githubusercontent.com/12001338/213039093-c74830c8-d885-4d8f-b155-24fa21649c56.png">
+<img width="939" alt="image" src="https://user-images.githubusercontent.com/12001338/213040078-d4f75600-0e3e-421f-8acd-949ce7d43578.png">
 
 ## Credits
 - The ClearVision team for the ClearVision v6 theme this is based off of https://github.com/ClearVision/ClearVision-v6
