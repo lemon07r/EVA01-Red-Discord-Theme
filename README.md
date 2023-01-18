@@ -1,4 +1,4 @@
-# EVA01-Red-Discord-Theme
+# EVA01 Red Discord Theme
 A red Evangelion inspired theme based on the ClearVision theme
 
 ## How to use
